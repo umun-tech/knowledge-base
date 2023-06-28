@@ -4,10 +4,13 @@ Welcome to the Umun Tech Knowledge Base! This repository is a collection of educ
 
 ## Table of Contents
 
-- [Java](./Java)
-- [Spring Boot](./SpringBoot)
-- [TypeScript](./TypeScript)
-- [Angular](./Angular)
+### Languages
+- [Java](./languages/Java.md)
+- [TypeScript](./langauages/TypeScript.md)
+
+### Frameworks
+- [Spring Boot](./frameworks/SpringBoot.md)
+- [Angular](./frameworks/Angular.md)
 
 ## Purpose
 
