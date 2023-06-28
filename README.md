@@ -6,7 +6,7 @@ Welcome to the Umun Tech Knowledge Base! This repository is a collection of educ
 
 ### Languages
 - [Java](./languages/Java.md)
-- [TypeScript](./langauages/TypeScript.md)
+- [TypeScript](./languages/TypeScript.md)
 
 ### Frameworks
 - [Spring Boot](./frameworks/SpringBoot.md)
